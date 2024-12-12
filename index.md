@@ -23,12 +23,16 @@ My GitHub page is http://github.com/jejejskh.
     with way more knowledge and dedication to coding than I do.  He was a truly smart
     and wise person because even though my knowledge was nothing compared to his, he
     was understanding and wanted my input anyway.  He made me feel included in the pair
-    programming and that was a good perspective to experience
+    programming and that was a good perspective to experience.  I liked in the lab how it 
+    invovled conversions of strings into floats because this was something I was still 
+    confused about at the time, but I got them cleared up. 
 
 * Lab 9
 
     I liked this lab because it was also a good learning experience for me because I felt
     the most hands on with this lab compared to the other labs.  Similar to how I felt in
     the 2nd lab, but with more complex functions and knowledge that I’ve gained throughout
-    this class.  Also had a very satisfying payoff to see the lab passing. 
+    this class.  Also had a very satisfying payoff to see the lab passing. Another thing that 
+    adds to that is how the lab is a return to one of the first code games that we created at
+    the beginning, coming full circle which I thought was cool.  
 
